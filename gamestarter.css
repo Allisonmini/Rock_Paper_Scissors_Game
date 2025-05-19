@@ -1,0 +1,10 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.backgrond-image{
+    -fx-background-image: url("GameBgd.png");
+    -fx-background-size: 500 500;
+      
+}
+

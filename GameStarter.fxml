@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane fx:id="pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="500.0" styleClass="backgrond-image" stylesheets="@gamestarter.css" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="RockPaperScissors.GameStarterController">
+   <children>
+      <Button fx:id="letsPlay" alignment="CENTER" contentDisplay="CENTER" focusTraversable="false" layoutX="-2.0" layoutY="431.0" mnemonicParsing="false" onAction="#startPlay" prefHeight="26.0" prefWidth="503.0" style="-fx-background-color: black; -fx-border-color: transparent; -fx-text-fill: white;" text="Let's PLAY" />
+      <Label fx:id="title1" alignment="CENTER" contentDisplay="CENTER" layoutX="-3.0" layoutY="55.0" prefHeight="43.0" prefWidth="505.0" text="ROCK | PAPER | SCISSORS" textFill="#140202">
+         <font>
+            <Font size="35.0" />
+         </font>
+      </Label>
+      <Label fx:id="title2" alignment="CENTER" layoutX="-52.0" layoutY="298.0" prefHeight="22.0" prefWidth="603.0" text="GAME">
+         <font>
+            <Font name="BM HANNA Pro OTF" size="19.0" />
+         </font>
+      </Label>
+      <Canvas height="200.0" width="200.0" />
+   </children>
+</Pane>
