@@ -46,7 +46,6 @@ src/
     │   ├── paper.png
     │   ├── scissors.png
     │   └── PressStart2P.ttf
-    └── MANIFEST.MF
 ```
 
 ## What I Learned
