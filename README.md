@@ -7,7 +7,7 @@ This version allows the player to choose Rock, Paper, or Scissors, generates a r
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - Java SE  
 - JavaFX  
@@ -17,7 +17,7 @@ This version allows the player to choose Rock, Paper, or Scissors, generates a r
 
 ---
 
-## 💻 Features
+## Features
 
 - Rock, Paper, and Scissors button-based gameplay  
 - Random computer choices  
@@ -25,8 +25,31 @@ This version allows the player to choose Rock, Paper, or Scissors, generates a r
 - Clean and styled interface using JavaFX  
 
 ---
+## Project Structure
 
-## 💡 What I Learned
+```
+src/
+└── RockPaperScissors/
+    ├── Main.java
+    ├── controller/
+    │   ├── GameConsoleController.java
+    │   └── GameStarterController.java
+    ├── view/
+    │   ├── GameStarter.fxml
+    │   └── gameConsole.fxml
+    ├── style/
+    │   ├── gameconsole.css
+    │   └── gamestarter.css
+    ├── assets/
+    │   ├── GameBgd.png
+    │   ├── rock.png
+    │   ├── paper.png
+    │   ├── scissors.png
+    │   └── PressStart2P.ttf
+    └── MANIFEST.MF
+```
+
+## What I Learned
 
 - Building JavaFX applications with FXML  
 - Styling UI components with JavaFX CSS  
@@ -35,13 +58,13 @@ This version allows the player to choose Rock, Paper, or Scissors, generates a r
 
 ---
 
-## 📹 Demo
+## Demo
 
 *(Optional: Add a link or upload a short video here, e.g., `RockPaperScissorsDemo.mov`)*
 
 ---
 
-## 💬 Personal Note
+## Personal Note
 
 As a Computer Science student, I enjoy turning class exercises into real projects. This was originally a simple command-line assignment, but creating a GUI with JavaFX made it much more fun and meaningful. It’s one of my first JavaFX GUI projects, and I’m proud of how it turned out!
 
