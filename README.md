@@ -60,7 +60,7 @@ src/
 
 ## Demo
 
-*(Optional: Add a link or upload a short video here, e.g., `RockPaperScissorsDemo.mov`)*
+https://github.com/user-attachments/assets/1ebb14aa-f2f3-4622-af63-7af5b36b60b6
 
 ---
 
