@@ -32,6 +32,17 @@ This version allows the player to choose Rock, Paper, or Scissors, generates a r
 - Styling UI components with JavaFX CSS  
 - Handling user input and game logic in a GUI context  
 
+
 ---
 
-## 📂 Project Structure
+## 📹 Demo
+
+*(Optional: Add a link or upload a short video here, e.g., `RockPaperScissorsDemo.mov`)*
+
+---
+
+## 💬 Personal Note
+
+As a Computer Science student, I enjoy turning class exercises into real projects. This was originally a simple command-line assignment, but creating a GUI with JavaFX made it much more fun and meaningful. It’s one of my first JavaFX GUI projects, and I’m proud of how it turned out!
+
+---
