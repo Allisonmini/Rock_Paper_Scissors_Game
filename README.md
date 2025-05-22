@@ -45,7 +45,7 @@ src/
     │   ├── rock.png
     │   ├── paper.png
     │   ├── scissors.png
-    │   └── PressStart2P.ttf
+    └── └── PressStart2P.ttf
 ```
 
 ## What I Learned
