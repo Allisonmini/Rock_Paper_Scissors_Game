@@ -65,6 +65,5 @@ https://github.com/user-attachments/assets/1ebb14aa-f2f3-4622-af63-7af5b36b60b6
 
 ## Personal Note
 
-As a Computer Science student, I enjoy turning class exercises into real projects. This was originally a simple command-line assignment, but creating a GUI with JavaFX made it much more fun and meaningful. It’s one of my first JavaFX GUI projects, and I’m proud of how it turned out!
-
+As a Computer Science student, I enjoy turning class exercises into real projects. This was originally a simple command-line assignment, but creating a GUI with JavaFX made it much more fun and meaningful. 
 ---
