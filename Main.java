@@ -1,4 +1,4 @@
-/* Written by Nyein Nyei Aye (Allison)
+/* Written by Nyein Nyein Aye (Allison)
 Independent Mini Game Project 
 Creating a GUI using JavaFX, FXML, CSS, and controller-based architecture
 
